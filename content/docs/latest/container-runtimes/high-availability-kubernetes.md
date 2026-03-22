@@ -1,8 +1,9 @@
+sudo systemctl restart containerd
 ---
 title: "High Availability Kubernetes"
 date: 2025-02-13T16:30:38-05:00
 draft: false
-weight: 12
+weight: 12unijjlinnybufbkubngbjubkfcbih nnj n thkhgn🫣bbbx
 ---
 
 After you have created a kubernetes cluster using the [getting started
